@@ -18,7 +18,7 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/suryansh-mamgain-b20236189/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:suryanshmamgain7@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
+<a href="https://www.linkedin.com/in/suryansh-mamgain-b20236189/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a> <a href="mailto:suryanshmamgain@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
 
 </div>
 </body>

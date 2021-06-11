@@ -40,7 +40,6 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
- 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 - 🌐 &nbsp;
@@ -52,6 +51,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
   ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter&logoColor=007ACC)
   
   

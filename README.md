@@ -27,7 +27,7 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m currently a 3rd year Undergraduate
+- 🔭 I’m currently a 4th year Undergraduate
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA concepts and Competitive Programming
